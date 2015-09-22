@@ -7,10 +7,9 @@ Simple weather forecast search of cities.
 
 ### Technologies
 ```
-* JavaScript
+* PHP
 * jQuery
 * Bootstrap
 * Weather-Forecast.com API
 
 ```
-
